@@ -65,8 +65,8 @@ nav ul li a:hover {
 }
 img {
   border-radius: 20px;
-  width: 300px;
-  height: auto;
+  width: auto;
+  height: 400px;
   margin-left: 2%;
   margin-top: 2%;
 }
